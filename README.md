@@ -1,1 +1,2 @@
 # SemanticTaskAssignment
+SemanticTaskAssignment is an advanced task assignment framework that leverages semantic communication and collaborative sensing to optimize task allocation in distributed systems like UAVs, IoT devices, and edge computing environments. By transmitting semantic information, such as scene graphs and natural language descriptions, instead of raw data, this system enhances communication efficiency and improves task distribution accuracy.
